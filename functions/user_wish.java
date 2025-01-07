@@ -23,5 +23,6 @@ public class user_wish {
         System.out.println("positive"+p);
         System.out.println("negative"+n);
         System.out.println("zero"+z);
+    sc.close();
     }
 }
