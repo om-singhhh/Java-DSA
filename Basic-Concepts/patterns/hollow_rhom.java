@@ -1,4 +1,3 @@
-package patterns;
 
 public class hollow_rhom {
     public static void main(String[] args) {

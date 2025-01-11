@@ -1,4 +1,4 @@
-// package patterns;
+
 
 // public class half_num {
 //     public static void main(String[] args) {
@@ -14,7 +14,7 @@
 //     }
 // };
 
-package patterns;
+
 public class half_num{
     public static void main(String[] args) {
         int n = 5;

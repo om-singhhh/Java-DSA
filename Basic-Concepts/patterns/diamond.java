@@ -1,4 +1,4 @@
-package patterns;
+
 import java.util.*;
 public class diamond {
     public static void main(String[] args) {

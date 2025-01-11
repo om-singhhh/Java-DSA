@@ -1,4 +1,4 @@
-package patterns;
+
 
 public class hollow_butterfly {
     public static void main(String[] args) {

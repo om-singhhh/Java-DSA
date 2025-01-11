@@ -1,4 +1,4 @@
-package patterns;
+
 
 public class tri {
     public static void main(String[] args) {

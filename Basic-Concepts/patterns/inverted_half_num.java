@@ -1,4 +1,4 @@
-package patterns;
+
 
 public class inverted_half_num {
     public static void main(String[] args) {

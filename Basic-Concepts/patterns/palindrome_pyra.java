@@ -1,4 +1,4 @@
-package patterns;
+
 
 public class palindrome_pyra {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package patterns;
+
 
 public class floyds_tri{
     public static void main(String[] args) {

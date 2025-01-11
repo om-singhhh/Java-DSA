@@ -1,4 +1,4 @@
-package patterns;
+
 
 public class hollow_pyra {
     public static void main(String[] args) {

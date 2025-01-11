@@ -1,4 +1,4 @@
-package patterns;
+
 
 public class number_pyra {
     public static void main(String[] args) {

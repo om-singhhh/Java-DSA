@@ -1,4 +1,4 @@
-package patterns;
+
 
 public class inverted_halfpyra {
     public static void main(String[] args) {

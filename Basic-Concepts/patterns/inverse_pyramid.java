@@ -1,4 +1,4 @@
-package patterns;
+
 
 public class inverse_pyramid {
     public static void main(String[] args) {

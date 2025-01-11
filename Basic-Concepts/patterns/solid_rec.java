@@ -1,4 +1,4 @@
-package patterns;
+
 import java.util.*;
 public class solid_rec {
     public static void main(String[] args) {
