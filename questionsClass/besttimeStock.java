@@ -19,4 +19,4 @@ class Solution {
         
         return -1; // target not found in the array
     }
-}
+}// STREAK 
