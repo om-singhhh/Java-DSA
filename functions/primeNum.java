@@ -15,4 +15,5 @@ public class primeNum {
         prime(n);
         sc.close();
     }
+    
 }
