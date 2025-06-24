@@ -17,5 +17,6 @@ public class targetSum {
             }
         }
         System.out.println("");
+        sc.close();
     }
 }
