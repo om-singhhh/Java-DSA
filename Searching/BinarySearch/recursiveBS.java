@@ -35,12 +35,12 @@ public class recursiveBS {
         int []ans = {-1,-1};
         int []nums = {5,7,7,8,8,10};
         int target = 8;
-        int startIdx = firstSearch(nums,target,true);
-        int endIdx = firstSearch(nums,target,false);
-        
-        ans[0] = startIdx;
-        ans[1] = endIdx;
-        System.out.println("[" + ans[0] + ", " + ans[1] + "]");
+            int startIdx = firstSearch(nums,target,true);
+            int endIdx = firstSearch(nums,target,false);
+            
+            ans[0] = startIdx;
+            ans[1] = endIdx;
+            System.out.println("[" + ans[0] + ", " + ans[1] + "]");
     }
 }
 
