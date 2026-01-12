@@ -1,4 +1,3 @@
-package Leetcode;
 
 public class prob34 {
     static int firstSearch(int[] arr,int target, boolean findStartIndex){

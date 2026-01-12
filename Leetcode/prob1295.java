@@ -1,4 +1,3 @@
-package Leetcode;
 
 public class prob1295 {
     class Solution {

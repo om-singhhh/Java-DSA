@@ -1,4 +1,3 @@
-package Leetcode;
 public class prob1672 {
     // LeetCode 1672: Richest Customer Wealth
     public static int maximumWealth(int[][] accounts) {

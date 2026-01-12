@@ -1,4 +1,4 @@
-package Leetcode;
+
 // this code is only for leetcode submission for the rotated sorted array search problem if you have to run locally use main method and give particular array to test
 class prob33 {
     static int search(int[] nums,int target){

@@ -1,4 +1,3 @@
-package Leetcode;
 
 import java.lang.reflect.Method;
 
