@@ -1,4 +1,6 @@
 // https://leetcode.com/problems/missing-number/description/ ; 
+import java.util.Arrays;
+
 class Solution {
     public int missingNumber(int[] nums) {
         // we have given that we have to find a missing nnumber from the given range.. using bimnary search !!!

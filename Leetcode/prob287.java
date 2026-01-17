@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/find-the-duplicate-number/description/
+import java.util.Arrays;
 
 class Solution {
     public int findDuplicate(int[] nums) {
